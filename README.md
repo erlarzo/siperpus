@@ -4,8 +4,8 @@ SiPerpus adalah sistem informasi perpustakaan berbasis Laravel.
 
 ## Instalasi
 
-1. Clone dengan ```git clone https://github.com/jurnalkode/siperpus.git```
-2. ```composer install```
+1. Clone dengan ```git clone https://github.com/erlarzo/siperpus.git```
+2. Jalankan perintah```composer install```
 3. Copy .env ```cp .env.example .env```
 4. Generate key ```php artisan key:generate```
 5. Lakukan migrasi ```php artisan migrate:fresh --seed```
